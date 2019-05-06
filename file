@@ -1,0 +1,14 @@
+#include<iostream> 
+using namespace std; 
+
+int main(){
+  int id, phone, level; 
+  string name, major; 
+  
+  cout<<"Enter your information: ";
+  cin>>name;
+  cin>>id>>phone; 
+  
+  return 0;
+}
+  
